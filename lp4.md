@@ -7,4 +7,4 @@ Volvemos a hacer lo mismo para ver el merge.
 
 Ahora creamos otra linea para unir ese commit a la rama master con merge.
 
-Orden de **Unix** quiere enfrentarse a ellos y luchar por el bien del mundo.
+**La orden de Unix** quieren enfrentarse pero no pueden compilar el *kernel*
